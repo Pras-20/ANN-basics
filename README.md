@@ -44,3 +44,10 @@ The goal was to build a simple web app that predicts whether a bank customer mig
 
 ---
 
+## Live Demo
+
+Check out the app live here: [Customer Churn Prediction App](https://ann-basics-7nmgz5g2cwlmgsc2yprthx.streamlit.app/)
+
+---
+
+
