@@ -44,10 +44,3 @@ The goal was to build a simple web app that predicts whether a bank customer mig
 
 ---
 
-## Screenshot
-
-![Streamlit App Screenshot](streamlit application.png)
-
----
-
-Made with ❤️ by [Your Name] – just having fun while learning Python, ML, and Streamlit!
