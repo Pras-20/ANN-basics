@@ -1,6 +1,6 @@
 # Customer Churn Prediction – Mini Learning Project
 
-![Streamlit App Screenshot](streamlit application.png)
+![Streamlit App Screenshot](streamlit application .png)
 
 ## About this Project
 
